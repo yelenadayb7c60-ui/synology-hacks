@@ -1,0 +1,2 @@
+# synology-hacks
+devcontainer setup
